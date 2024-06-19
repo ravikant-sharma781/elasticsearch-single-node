@@ -1,0 +1,5 @@
+cluster.name: my-cluster
+node.name: my-node
+path.data: /path/to/data
+path.logs: /path/to/logs
+network.host: 127.0.0.1

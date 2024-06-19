@@ -1,0 +1,7 @@
+# Elasticsearch data and logs
+/data/
+/logs/
+
+# IDE-specific files
+.idea/
+.vscode/
